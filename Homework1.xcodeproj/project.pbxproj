@@ -10,22 +10,9 @@
 		FAA2F8CC2D9310EE003B89C7 /* Homework1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		FAA2F8DE2D9310F0003B89C7 /* Exceptions for "Homework1" folder in "Homework1" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = FAA2F8CB2D9310EE003B89C7 /* Homework1 */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		FAA2F8CE2D9310EE003B89C7 /* Homework1 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				FAA2F8DE2D9310F0003B89C7 /* Exceptions for "Homework1" folder in "Homework1" target */,
-			);
 			path = Homework1;
 			sourceTree = "<group>";
 		};
